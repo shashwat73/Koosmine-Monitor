@@ -5,4 +5,4 @@
  The total CPU and GPU percentage use averages under 1% and 0.1% respectively. This allows for maximum mining earnings while being able to view earnings constantly.
  
  For Windows - pip install PyQt5
-               Manageable through Linux, Windows, maybe macOS
+ Manageable through Linux, Windows, maybe macOS
